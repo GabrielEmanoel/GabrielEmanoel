@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌎Hello world, my name is Gabriel Emanoel, a lover of technology and someone who wants to turn ideas into reality<br>👨🏻‍💻 Studying systems analysis and development at university<br>👥 I am looking for an opportunity to enter the technology market
+🌎Hello world, my name is Gabriel Emanoel, a lover of technology and someone who wants to turn ideas into reality<br>👨🏻‍💻 Studying systems analysis and development<br>👥 I am looking for an opportunity to enter the technology market
 
 
 ## 🌐 Socials:
